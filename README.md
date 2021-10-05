@@ -19,7 +19,6 @@ This repository is a **Pythoh** implementation of LMC [doi](https://dl.acm.org/d
 
 The code has been tested running under Python 3.6, with the following packages installed (along with their dependencies):
 
-- pytorch >= 1.0
 - numpy >= 1.14.5
 - scipy >= 1.5.4 
 - matplotlib >= 3.3.0
