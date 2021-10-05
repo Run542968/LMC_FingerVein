@@ -1,6 +1,6 @@
 # LMC_FingerVein
 
-This repository is a **PyTorch** implementation of LMC [doi](https://dl.acm.org/doi/10.5555/1522515.1522524)):
+This repository is a **Pythoh** implementation of LMC [doi](https://dl.acm.org/doi/10.5555/1522515.1522524)):
 
 > Extraction of Finger-Vein Patterns Using Maximum Curvature Points in Image Profiles
 
